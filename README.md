@@ -43,5 +43,4 @@
 - 👯 I’m looking to collaborate on some open source projects
 - 💬 Ask me about anything you want to know, i will try to help you
 - 📫 How to reach me: https://www.linkedin.com/in/jesus-alfonso-arce-sempoalt-898b49148/
-- ⚡ Fun fact: I used to think if I ate seeds the plant would grow inside of me.
 
