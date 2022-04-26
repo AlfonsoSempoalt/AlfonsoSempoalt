@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Hello there.</h1>
+Hey! Hello there.</h1>
 
 <p></br> I'm Alfonso Sempoalt, Software engineering student  <img src="https://image.flaticon.com/icons/png/512/197/197397.png" width="13"/> <b>   from Cabo San Lucas, México</b>,
 <h3>I code with this techonologies</h3>
